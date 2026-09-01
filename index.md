@@ -49,4 +49,4 @@ We may update this policy from time to time. Material changes will be reflected 
 
 ## Contact
 
-Questions about this policy or your data: **darielunson@gmail.com**
+Questions about this policy or your data: **gothamforgeapps@gmail.com**
